@@ -1,5 +1,0 @@
-opencv-python-headless
-streamlit
-pandas
-deepface
-os
